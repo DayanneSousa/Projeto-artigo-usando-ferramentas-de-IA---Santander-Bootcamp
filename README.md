@@ -19,5 +19,10 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                            
 | :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  título  | crie 10 headlines para um artigo sobre o uso de ferramentas de dados em estudos econômicos.                                                                    |
-| conteúdo | Chat, essa foi a headline escolhida: Big Data e Economia: O Futuro das Pesquisas Econômicas com Ferramentas de Dados. Vamos criar um artigo dividido em blocos:|  | inicie falando sobre o conceito de big data em paralelo ao seu uso nos estudos econômicos. Liste ferramentas e linguagens que são auxiliares e que ajudam nas análises    |  |econômicas. As vantagens e desvantagens de se utilizar essa abordagem. Crie um título chamativo e divertido para cada bloco. Explique de uma maneira de fácil entendimento.| 
-|Ao final faça uma call to action para as minhas redes sociais e coloque 3 hashtags que estejam de acordo com o conteúdo.                                                   |
+| conteúdo | Chat, essa foi a headline escolhida: Big Data e Economia: O Futuro das Pesquisas Econômicas com Ferramentas de Dados. Vamos criar um artigo dividido em blocos: inicie falando sobre o conceito de big data em paralelo ao seu uso nos estudos econômicos. Liste ferramentas e linguagens que são auxiliares e que ajudam nas análises econômicas. As vantagens e desvantagens de se utilizar essa abordagem. Crie um título chamativo e divertido para cada bloco. Explique de uma maneira de fácil endimento. Ao final faça uma call to action para as minhas redes sociais e coloque 3 hashtags que estejam de acordo com o conteúdo.                                          
+
+
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT e formatado por humano
+- Imagens do acervo público geradas via Lexica.art e canva
